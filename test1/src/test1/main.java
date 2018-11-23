@@ -19,6 +19,8 @@ public class main {
 		System.out.println("joke man");
 		System.out.println("nani");
 		System.out.println("my hero");
+		System.out.println("new one");
+		
 		
 	}
 
